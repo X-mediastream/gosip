@@ -7,7 +7,7 @@
 
 ## Fork maintenance
 
-Update this section in the same change as every fork-specific code or dependency update. Record the date, the behavior that changed, and how it was verified. Include the affected maintenance branch or pinned revision when applicable.
+Update this section with every code or dependency change in the fork, including upstream synchronizations. Record the date, the behavior that changed, and how it was verified. Include the affected maintenance branch or pinned revision when applicable.
 
 ### 2026-11-17 — Client SIP transaction registration
 
